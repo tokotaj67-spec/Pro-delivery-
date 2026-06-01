@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery",
+  "description": "A elegant and modern mobile food delivery app in portrait mode with smart AI recommendations and realistic smartphone frame design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
